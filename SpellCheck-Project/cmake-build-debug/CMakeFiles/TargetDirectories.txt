@@ -1,0 +1,3 @@
+C:/Users/mido9/CLionProjects/Spellccheck/SpellCheck/cmake-build-debug/CMakeFiles/SpellCheck.dir
+C:/Users/mido9/CLionProjects/Spellccheck/SpellCheck/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mido9/CLionProjects/Spellccheck/SpellCheck/cmake-build-debug/CMakeFiles/rebuild_cache.dir
