@@ -1,0 +1,10 @@
+9619560694,Aaron Austin,kyleroberts@example.org,8013.07,01527472733,11-2023
+9786477041,Aaron Miller,jessica13@example.com,5446.59,01114576283,04-2022
+7774237178,Aaron Edwards,tyler27@example.org,977.01,01550041457,12-2021
+3655575192,Adam Reynolds,crystal77@example.net,5727.08,01065281033,12-2019
+9551486030,Joseph Morton,ayerskatie@example.org,7498.11,01250439842,08-2015
+9724679727,Jose Ford,william69@example.net,1713.21,01160176288,09-2009
+2065601721,Eslam Hassan,eslam@gmail.com,9953.34,01020025236,07-2009
+9479501385,Deborah Charles,ashleycrosby@example.net,4901.08,01524591809,12-2008
+8203784977,Joseph Duarte,campbellelizabeth@example.org,425.37,01564183561,10-2004
+8111923710,Alan Black,escobartroy@example.com,8140.44,01582809626,10-2004
