@@ -18,8 +18,8 @@
 
 - 🎓 **Education:** Pursuing a degree in **Computer Engineering** (Expected Grad in 2027).
 - 💡 **Interests:** Artificial Intelligence, Machine Learning, Embedded Systems, Computer Networks, and Full-Stack Development.
-- 🔭 **Currently Working On:** Object-Oriented Programming, Advanced AI Algorithms, and Mobile App Development.
-- 👯 **Looking to Collaborate On:** Robotics Engineering and Open Source ML/AI Projects.
+- 🔭 **Currently Working On:** Engineering high-performance **Machine Learning Models** and architecting scalable **Full-Stack Web Applications**.
+- 👯 **Looking to Collaborate On:** Research & Development (R&D) and Open Source ML/AI Projects.
 
 ---
 
