@@ -43,7 +43,7 @@ Here are some of my standout academic and personal projects that demonstrate my 
 
 #### 🧠 Artificial Intelligence & Algorithms
 
-- **[Sudoku CSP AI Solver](https://github.com/marwan-ahmad07/Artificial-Intelligence-)**: Developed a robust graphical Sudoku solver using Constraint Satisfaction Problem (CSP) techniques, implementing **Backtracking** and **Arc Consistency (AC-3/MAC)** algorithms with detailed search tree analysis and performance benchmarking.
+- **[Sudoku CSP AI Solver](https://github.com/marwan-ahmad07/Artificial-Intelligence-/tree/main/Lab3)**: Developed a robust graphical Sudoku solver using Constraint Satisfaction Problem (CSP) techniques, implementing **Backtracking** and **Arc Consistency (AC-3/MAC)** algorithms with detailed search tree analysis and performance benchmarking.
 - **[Connect 4 AI Engine](https://github.com/marwan-ahmad07/Artificial-Intelligence-/tree/main/lab2)**: Built a Connect 4 game featuring an AI opponent powered by **Minimax with Alpha-Beta Pruning**. Implemented advanced heuristics and real-time visualization of the AI's principal variation decision tree.
 
 #### 📊 Machine Learning & Data Science
